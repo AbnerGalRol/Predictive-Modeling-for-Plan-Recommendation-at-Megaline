@@ -5,10 +5,10 @@ The main objective is to achieve a prediction accuracy of at least 0.75. To acco
 
 ## Data Description
 
-сalls — number of calls
-minutes — total call duration in minutes
-messages — number of text messages
-mb_used — internet traffic used in MB,
-is_ultra — Current Plan (Ultra - 1, Smart - 0)
+- сalls — number of calls
+- minutes — total call duration in minutes
+- messages — number of text messages
+- mb_used — internet traffic used in MB,
+- is_ultra — Current Plan (Ultra - 1, Smart - 0)
 
 
